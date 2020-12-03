@@ -1,0 +1,19 @@
+platform :ios, '9.0'
+
+inhibit_all_warnings!
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'test' do             
+
+ use_frameworks!
+
+
+
+
+
+ pod 'Masonry', '~> 1.1.0'
+
+
+
+end
